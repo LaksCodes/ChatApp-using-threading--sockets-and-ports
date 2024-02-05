@@ -1,0 +1,52 @@
+G-2021-03-25_21:34:28
+
+21:33:28[GER] Test
+21:33:32[GER] Hey
+21:33:34[GGGGGGE] Hey
+21:33:35[GGGGGGE] I see
+21:33:41[GGGGGGE] It works
+21:33:43[GER] Hey
+21:34:17[qweqwe] Hey
+21:34:19[qweqwe] another one
+21:34:21[qweqwe] has joined
+21:34:23[GER] Sup
+21:34:24[GER] It works
+21:34:27[GER] Okay cool
+21:34:28[GER] /save
+
+G-2021-04-01_21:36:58
+
+21:36:30[GER] he
+21:36:42[GER] Heyy
+21:36:43[GER] Oh
+21:36:45[GER] It
+21:36:47[GER] Works
+21:36:50[GER] Okay cool
+21:36:58[GER] /save
+
+
+L-2021-04-01_21:49:18
+
+21:49:14[LAKS] Heyy
+21:49:16[LAKS] Try save
+21:49:17[LAKS] .save
+21:49:18[LAKS] /save
+
+L-2021-04-08_22:05:01
+
+22:02:10[LAKS31] Hey
+22:02:26[HUE32] Hey
+22:02:44[ORN23] Hey
+22:02:47[ORN23] erer
+22:02:47[ORN23] er
+22:02:47[ORN23] er
+22:02:48[ORN23] er
+22:02:50[ORN23] Hey
+22:03:59[LAKS31] r/help
+22:04:03[LAKS31] /help
+22:04:11[HUE32] /help
+22:04:27[LAKS31] /togglecmd
+22:04:32[HUE32] /help
+22:04:42[LAKS31] /members
+22:04:50[LAKS31] /peers
+22:05:01[LAKS31] /save
