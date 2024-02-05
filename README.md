@@ -16,5 +16,6 @@ This project is a network-based chat application built in Python using the clien
 2. The first user to log in becomes the server. Use the GUI to log in and send messages.
 
 ## Notes
-There is a report file if you wish to read the report.
-There is also a video you can view to demonstrate the project.
+- There is a report file if you wish to read the report.
+- There is also a video you can view to demonstrate the project.
+![Alt text](/videoDemo.mp4?raw=true)
