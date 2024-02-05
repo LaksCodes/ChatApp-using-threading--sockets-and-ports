@@ -18,4 +18,6 @@ This project is a network-based chat application built in Python using the clien
 ## Notes
 - There is a report file if you wish to read the report.
 - There is also a video you can view to demonstrate the project.
-![Alt text](/videoDemo.mp4?raw=true)
+
+https://github.com/LaksCodes/ChatApp-using-threading--sockets-and-ports/assets/143817682/f9ffa101-1c24-4b9b-a49b-f00759639aa8
+
